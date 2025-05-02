@@ -1,4 +1,4 @@
-package com.example.mazebank.Controllers.ClientController;
+package com.example.mazebank.Controllers.Client;
 
 public class ClientController {
 }
