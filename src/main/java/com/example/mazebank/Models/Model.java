@@ -1,4 +1,4 @@
-package com.example.mazebank.Modules;
+package com.example.mazebank.Models;
 
 public class Model {
 }
